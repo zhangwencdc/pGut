@@ -1,0 +1,499 @@
+ID	Project	Region_People	Time	Group
+S1605B04-2	CMP_Region	Beijing	2016	China
+S1605B05-1	CMP_Region	Beijing	2016	China
+S1605B07-2	CMP_Region	Beijing	2016	China
+S1605C03-1	CMP_Region	Beijing	2016	China
+S-1605C04-1	CMP_Region	Beijing	2016	China
+S-1605C10	CMP_Region	Beijing	2016	China
+S-1605C11-2	CMP_Region	Beijing	2016	China
+S-1605F02-1	CMP_Region	Beijing	2016	China
+S1605F03-2	CMP_Region	Beijing	2016	China
+S1605G02-1	CMP_Region	Beijing	2016	China
+S1605G03-2	CMP_Region	Beijing	2016	China
+S-1605G09	CMP_Region	Beijing	2016	China
+S1605G11	CMP_Region	Beijing	2016	China
+S-1605I05-1	CMP_Region	Beijing	2016	China
+S1605I06-1	CMP_Region	Beijing	2016	China
+S-1605I09-1	CMP_Region	Beijing	2016	China
+S1605I10-2	CMP_Region	Beijing	2016	China
+S1605K02-1	CMP_Region	Beijing	2016	China
+S-1605P04-1	CMP_Region	Beijing	2016	China
+S1606C28	CMP_Region	Sichuan	2016	China
+S1606H01-2	CMP_Region	Sichuan	2016	China
+S1606H02-1	CMP_Region	Sichuan	2016	China
+S1606H05-1	CMP_Region	Sichuan	2016	China
+S1606H08-2	CMP_Region	Sichuan	2016	China
+S1606H09-1	CMP_Region	Sichuan	2016	China
+S1606H10-2	CMP_Region	Sichuan	2016	China
+S1606H15-2	CMP_Region	Sichuan	2016	China
+S1606H19-1	CMP_Region	Sichuan	2016	China
+S1606H22-1	CMP_Region	Sichuan	2016	China
+S1606H29	CMP_Region	Sichuan	2016	China
+S1606H32	CMP_Region	Sichuan	2016	China
+S1606H35	CMP_Region	Sichuan	2016	China
+S1606H40	CMP_Region	Sichuan	2016	China
+S1606H42	CMP_Region	Sichuan	2016	China
+S1606H47	CMP_Region	Sichuan	2016	China
+S1710A01	CMP_Region	Beijing	2017	China
+S1710A02	CMP_Region	Beijing	2017	China
+S1710A03	CMP_Region	Beijing	2017	China
+S1710A05	CMP_Region	Beijing	2017	China
+S1710A06	CMP_Region	Beijing	2017	China
+S1710A07	CMP_Region	Beijing	2017	China
+S1710A08	CMP_Region	Beijing	2017	China
+S1710B02	CMP_Region	Beijing	2017	China
+S1710B05	CMP_Region	Beijing	2017	China
+S1710B08	CMP_Region	Beijing	2017	China
+S1710C01	CMP_Region	Beijing	2017	China
+S1710C02	CMP_Region	Beijing	2017	China
+S1710C03	CMP_Region	Beijing	2017	China
+S1710C05	CMP_Region	Beijing	2017	China
+S1710C06	CMP_Region	Beijing	2017	China
+S1710C07	CMP_Region	Beijing	2017	China
+S1710D01	CMP_Region	Beijing	2017	China
+S1710D02	CMP_Region	Beijing	2017	China
+S1710D04	CMP_Region	Beijing	2017	China
+S1710D06	CMP_Region	Beijing	2017	China
+S1710D07	CMP_Region	Beijing	2017	China
+S1710D08	CMP_Region	Beijing	2017	China
+S1710E01	CMP_Region	Beijing	2017	China
+S1710E07	CMP_Region	Beijing	2017	China
+S1710E08	CMP_Region	Beijing	2017	China
+S1710F02	CMP_Region	Beijing	2017	China
+S1710F03	CMP_Region	Beijing	2017	China
+S1710F05	CMP_Region	Beijing	2017	China
+S1710F07	CMP_Region	Beijing	2017	China
+S1710G01	CMP_Region	Beijing	2017	China
+S1710G03	CMP_Region	Beijing	2017	China
+S1710G04	CMP_Region	Beijing	2017	China
+S1710G05	CMP_Region	Beijing	2017	China
+S1710G07	CMP_Region	Beijing	2017	China
+S1710G08	CMP_Region	Beijing	2017	China
+S1710H01	CMP_Region	Beijing	2017	China
+S1710H02	CMP_Region	Beijing	2017	China
+S1710H03	CMP_Region	Beijing	2017	China
+S1710H06	CMP_Region	Beijing	2017	China
+SA02-1	CMP_Region	Beijing	2016	China
+S-A03-2	CMP_Region	Beijing	2016	China
+SA04-1	CMP_Region	Beijing	2016	China
+S-A05-1	CMP_Region	Beijing	2016	China
+SA1-1	CMP_Region	Jiangsu	2017	China
+SA11-1	CMP_Region	Beijing	2016	China
+SA43-1	CMP_Region	Jiangsu	2017	China
+SA47-1	CMP_Region	Jiangsu	2017	China
+SA49-1	CMP_Region	Jiangsu	2017	China
+SA55-1	CMP_Region	Jiangsu	2017	China
+SA60-2	CMP_Region	Jiangsu	2017	China
+SA70-1	CMP_Region	Jiangsu	2017	China
+SA78	CMP_Region	Jiangsu	2017	China
+SB19-2	CMP_Region	Jiangsu	2017	China
+SB2-1	CMP_Region	Jiangsu	2017	China
+SB25-1	CMP_Region	Jiangsu	2017	China
+SB26-1	CMP_Region	Jiangsu	2017	China
+SB32-2	CMP_Region	Jiangsu	2017	China
+SB35-1	CMP_Region	Jiangsu	2017	China
+SB35-2	CMP_Region	Jiangsu	2017	China
+SB4-1	CMP_Region	Jiangsu	2017	China
+SB43-2	CMP_Region	Jiangsu	2017	China
+SB50-2	CMP_Region	Jiangsu	2017	China
+SB52-2	CMP_Region	Jiangsu	2017	China
+SD02-2	CMP_Region	Beijing	2016	China
+SD05-1	CMP_Region	Beijing	2016	China
+SD07-1	CMP_Region	Beijing	2016	China
+SD08-2	CMP_Region	Beijing	2016	China
+SD09	CMP_Region	Beijing	2016	China
+SD11-2	CMP_Region	Beijing	2016	China
+S-D12	CMP_Region	Beijing	2016	China
+S-E01-2	CMP_Region	Beijing	2016	China
+SE03-2	CMP_Region	Beijing	2016	China
+SE04-1	CMP_Region	Beijing	2016	China
+SE05-1	CMP_Region	Beijing	2016	China
+S-E06-2	CMP_Region	Beijing	2016	China
+SE12	CMP_Region	Beijing	2016	China
+S-F05	CMP_Region	Beijing	2016	China
+SF06	CMP_Region	Beijing	2016	China
+SF08	CMP_Region	Beijing	2016	China
+SF09	CMP_Region	Beijing	2016	China
+SF11	CMP_Region	Beijing	2016	China
+SG06-2	CMP_Region	Beijing	2016	China
+SH09	CMP_Region	Beijing	2016	China
+SH18F01	CMP_Region	Henan	2018	China
+SH18F04	CMP_Region	Henan	2018	China
+SH18F05	CMP_Region	Henan	2018	China
+SH18F06	CMP_Region	Henan	2018	China
+SH18F09	CMP_Region	Henan	2018	China
+SH18F10	CMP_Region	Henan	2018	China
+SH18F11	CMP_Region	Henan	2018	China
+SH18F12	CMP_Region	Henan	2018	China
+SH18F121	CMP_Region	Henan	2018	China
+SH18F122	CMP_Region	Henan	2018	China
+SH18F123	CMP_Region	Henan	2018	China
+SH18F124	CMP_Region	Henan	2018	China
+SH18F125	CMP_Region	Henan	2018	China
+SH18F127	CMP_Region	Henan	2018	China
+SH18F129	CMP_Region	Henan	2018	China
+SH18F13	CMP_Region	Henan	2018	China
+SH18F131	CMP_Region	Henan	2018	China
+SH18F132	CMP_Region	Henan	2018	China
+SH18F133	CMP_Region	Henan	2018	China
+SH18F134	CMP_Region	Henan	2018	China
+SH18F135	CMP_Region	Henan	2018	China
+SH18F136	CMP_Region	Henan	2018	China
+SH18F138	CMP_Region	Henan	2018	China
+SH18F139	CMP_Region	Henan	2018	China
+SH18F14	CMP_Region	Henan	2018	China
+SH18F140	CMP_Region	Henan	2018	China
+SH18F15	CMP_Region	Henan	2018	China
+SH18F17	CMP_Region	Henan	2018	China
+SH18F18	CMP_Region	Henan	2018	China
+SH18F19	CMP_Region	Henan	2018	China
+SH18F20	CMP_Region	Henan	2018	China
+SH18F21	CMP_Region	Henan	2018	China
+SH18F22	CMP_Region	Henan	2018	China
+SH18F23	CMP_Region	Henan	2018	China
+SH18F25	CMP_Region	Henan	2018	China
+SH18F27	CMP_Region	Henan	2018	China
+SH18F29	CMP_Region	Henan	2018	China
+SH18F31	CMP_Region	Henan	2018	China
+SH18F32	CMP_Region	Henan	2018	China
+SH18F33	CMP_Region	Henan	2018	China
+SH18F34	CMP_Region	Henan	2018	China
+SH18F41	CMP_Region	Henan	2018	China
+SH18F42	CMP_Region	Henan	2018	China
+SH18F43	CMP_Region	Henan	2018	China
+SH18F47	CMP_Region	Henan	2018	China
+SH18F48	CMP_Region	Henan	2018	China
+SH18F58	CMP_Region	Henan	2018	China
+SH18F59	CMP_Region	Henan	2018	China
+SH18F60	CMP_Region	Henan	2018	China
+SH18F61	CMP_Region	Henan	2018	China
+SH18F62	CMP_Region	Henan	2018	China
+SH18F63	CMP_Region	Henan	2018	China
+SH18F72	CMP_Region	Henan	2018	China
+SI01	CMP_Region	Beijing	2016	China
+SI03	CMP_Region	Beijing	2016	China
+SI04	CMP_Region	Beijing	2016	China
+SI07	CMP_Region	Beijing	2016	China
+SK03	CMP_Region	Beijing	2016	China
+SK04	CMP_Region	Beijing	2016	China
+SK05	CMP_Region	Beijing	2016	China
+SK06	CMP_Region	Beijing	2016	China
+SK07	CMP_Region	Beijing	2016	China
+SK08	CMP_Region	Beijing	2016	China
+SK09	CMP_Region	Beijing	2016	China
+SK11	CMP_Region	Beijing	2016	China
+SK12	CMP_Region	Beijing	2016	China
+SM01-2	CMP_Region	Beijing	2016	China
+SM06	CMP_Region	Beijing	2016	China
+SM09	CMP_Region	Beijing	2016	China
+SM11	CMP_Region	Beijing	2016	China
+SN07-2	CMP_Region	Beijing	2016	China
+SN11-2	CMP_Region	Beijing	2016	China
+AF002	ProjectA	Beijing	2023_04	ProjectA
+AF004	ProjectA	Beijing	2023_04	ProjectA
+AF005	ProjectA	Beijing	2023_04	ProjectA
+AF006	ProjectA	Beijing	2023_04	ProjectA
+AF007	ProjectA	Beijing	2023_04	ProjectA
+AF008	ProjectA	Beijing	2023_04	ProjectA
+AF009	ProjectA	Beijing	2023_04	ProjectA
+AF010	ProjectA	Beijing	2023_04	ProjectA
+AF011	ProjectA	Beijing	2023_04	ProjectA
+AF012	ProjectA	Beijing	2023_04	ProjectA
+AF013	ProjectA	Beijing	2023_04	ProjectA
+AF014	ProjectA	Beijing	2023_04	ProjectA
+AF015	ProjectA	Beijing	2023_04	ProjectA
+AF016	ProjectA	Beijing	2023_04	ProjectA
+AF017	ProjectA	Beijing	2023_04	ProjectA
+AF018	ProjectA	Beijing	2023_04	ProjectA
+AF019	ProjectA	Beijing	2023_04	ProjectA
+AF020	ProjectA	Beijing	2023_04	ProjectA
+AF021	ProjectA	Beijing	2023_04	ProjectA
+AF022	ProjectA	Beijing	2023_04	ProjectA
+AF023	ProjectA	Beijing	2023_04	ProjectA
+AF024	ProjectA	Beijing	2023_04	ProjectA
+AF025	ProjectA	Beijing	2023_04	ProjectA
+AF026	ProjectA	Beijing	2023_04	ProjectA
+AF027	ProjectA	Beijing	2023_04	ProjectA
+AF028	ProjectA	Beijing	2023_04	ProjectA
+AF029	ProjectA	Beijing	2023_04	ProjectA
+AF030	ProjectA	Beijing	2023_04	ProjectA
+AF032	ProjectA	Beijing	2023_04	ProjectA
+AF033	ProjectA	Beijing	2023_04	ProjectA
+AF035	ProjectA	Beijing	2023_04	ProjectA
+AF036	ProjectA	Beijing	2023_04	ProjectA
+AF038	ProjectA	Beijing	2023_04	ProjectA
+AF039	ProjectA	Beijing	2023_04	ProjectA
+AF040	ProjectA	Beijing	2023_04	ProjectA
+AF041	ProjectA	Beijing	2023_04	ProjectA
+AF042	ProjectA	Beijing	2023_04	ProjectA
+AF043	ProjectA	Beijing	2023_04	ProjectA
+AF044	ProjectA	Beijing	2023_04	ProjectA
+AF045	ProjectA	Beijing	2023_04	ProjectA
+AF046	ProjectA	Beijing	2023_04	ProjectA
+AF047	ProjectA	Beijing	2023_04	ProjectA
+AF048	ProjectA	Beijing	2023_04	ProjectA
+AF049	ProjectA	Beijing	2023_04	ProjectA
+AF050	ProjectA	Beijing	2023_04	ProjectA
+AF051	ProjectA	Beijing	2023_04	ProjectA
+AF052	ProjectA	Beijing	2023_04	ProjectA
+AF053	ProjectA	Beijing	2023_04	ProjectA
+AF054	ProjectA	Beijing	2023_04	ProjectA
+AF055	ProjectA	Beijing	2023_04	ProjectA
+AF056	ProjectA	Beijing	2023_04	ProjectA
+AF057	ProjectA	Beijing	2023_04	ProjectA
+AF059	ProjectA	Beijing	2023_04	ProjectA
+AF060	ProjectA	Beijing	2023_04	ProjectA
+AF061	ProjectA	Beijing	2023_04	ProjectA
+AF063	ProjectA	Beijing	2023_04	ProjectA
+AF064	ProjectA	Beijing	2023_04	ProjectA
+AF065	ProjectA	Beijing	2023_04	ProjectA
+AF066	ProjectA	Beijing	2023_04	ProjectA
+AF067	ProjectA	Beijing	2023_04	ProjectA
+AF068	ProjectA	Beijing	2023_04	ProjectA
+AF069	ProjectA	Beijing	2023_04	ProjectA
+AF070	ProjectA	Beijing	2023_04	ProjectA
+AF071	ProjectA	Beijing	2023_04	ProjectA
+AF072	ProjectA	Beijing	2023_04	ProjectA
+AF074	ProjectA	Beijing	2023_04	ProjectA
+AF075	ProjectA	Beijing	2023_04	ProjectA
+AF076	ProjectA	Beijing	2023_04	ProjectA
+S17ZYC2	CMP_multitime	P5	2017_03	
+S17ZYC3	CMP_multitime	P1	2017_03	
+S17ZYC4	CMP_multitime	P6	2017_03	
+S17ZYE1	CMP_multitime	P6	2017_05	
+S17ZYE2	CMP_multitime	P5	2017_05	
+S17ZYE3	CMP_multitime	P3	2017_05	
+S17ZYE4	CMP_multitime	P4	2017_05	
+S17ZYE5	CMP_multitime	P1	2017_05	
+S17ZYE6	CMP_multitime	P7	2017_05	
+S17ZYF1	CMP_multitime	P6	2017_06	
+S17ZYF2	CMP_multitime	P4	2017_06	
+S17ZYF3	CMP_multitime	P5	2017_06	
+S17ZYF4	CMP_multitime	P3	2017_06	
+S17ZYF5	CMP_multitime	P1	2017_06	
+S17ZYF6	CMP_multitime	P7	2017_06	
+S17ZYG1	CMP_multitime	P7	2017_07	
+S17ZYG2	CMP_multitime	P1	2017_07	
+S17ZYG3	CMP_multitime	P4	2017_07	
+S17ZYG4	CMP_multitime	P5	2017_07	
+S17ZYG6	CMP_multitime	P6	2017_07	
+S17ZYH01	CMP_multitime	P5	2017_08	
+S17ZYH02	CMP_multitime	P7	2017_08	
+S17ZYH03	CMP_multitime	P6	2017_08	
+S17ZYH04	CMP_multitime	P1	2017_08	
+S17ZYH06	CMP_multitime	P4	2017_08	
+S17ZYH07	CMP_multitime	P3	2017_08	
+S17ZYI2	CMP_multitime	P6	2017_09	
+S17ZYI3	CMP_multitime	P5	2017_09	
+S17ZYI4	CMP_multitime	P1	2017_09	
+S17ZYI5	CMP_multitime	P7	2017_09	
+S17ZYI6	CMP_multitime	P4	2017_09	
+S17ZYJ2	CMP_multitime	P6	2017_10	
+S17ZYJ3	CMP_multitime	P3	2017_10	
+S17ZYJ5	CMP_multitime	P1	2017_10	
+S17ZYJ6	CMP_multitime	P2	2017_10	
+S17ZYK1	CMP_multitime	P1	2017_11	
+S17ZYK2	CMP_multitime	P6	2017_11	
+S17ZYK3	CMP_multitime	P4	2017_11	
+S17ZYK4	CMP_multitime	P3	2017_11	
+S17ZYK5	CMP_multitime	P5	2017_11	
+S17ZYK6	CMP_multitime	P2	2017_11	
+S17ZYL1	CMP_multitime	P5	2017_12	
+S17ZYL2	CMP_multitime	P6	2017_12	
+S17ZYL3	CMP_multitime	P4	2017_12	
+S17ZYL5	CMP_multitime	P3	2017_12	
+S18ZYA1	CMP_multitime	P2	2018_01	
+S18ZYA2	CMP_multitime	P6	2018_01	
+S18ZYA6	CMP_multitime	P1	2018_01	
+S18ZYA7	CMP_multitime	P5	2018_01	
+S18ZYC02	CMP_multitime	P2	2018_03	
+S18ZYC03	CMP_multitime	P5	2018_03	
+S18ZYC05	CMP_multitime	P7	2018_03	
+S18ZYC06	CMP_multitime	P6	2018_03	
+S18ZYD1	CMP_multitime	P3	2018_04	
+S18ZYD2	CMP_multitime	P4	2018_04	
+S18ZYD4	CMP_multitime	P2	2018_04	
+S18ZYD5	CMP_multitime	P1	2018_04	
+S18ZYD6	CMP_multitime	P6	2018_04	
+S18ZYE1	CMP_multitime	P6	2018_05	
+S18ZYE3	CMP_multitime	P2	2018_05	
+S18ZYE4	CMP_multitime	P1	2018_05	
+S18ZYE6	CMP_multitime	P4	2018_05	
+S18ZYE7	CMP_multitime	P3	2018_05	
+S18ZYF1	CMP_multitime	P1	2018_06	
+S18ZYF3	CMP_multitime	P3	2018_06	
+S18ZYF4	CMP_multitime	P4	2018_06	
+S18ZYF5	CMP_multitime	P5	2018_06	
+S18ZYF6	CMP_multitime	P6	2018_06	
+S18ZYG1	CMP_multitime	P1	2018_07	
+S18ZYG2	CMP_multitime	P2	2018_07	
+S18ZYG6	CMP_multitime	P6	2018_07	
+S18ZYG7	CMP_multitime	P7	2018_07	
+S18ZYH1	CMP_multitime	P1	2018_08	
+S18ZYH2	CMP_multitime	P2	2018_08	
+S18ZYH3	CMP_multitime	P3	2018_08	
+S18ZYH4	CMP_multitime	P4	2018_08	
+S18ZYH5	CMP_multitime	P5	2018_08	
+S18ZYH6	CMP_multitime	P6	2018_08	
+S18ZYH7	CMP_multitime	P7	2018_08	
+S18ZYI1	CMP_multitime	P1	2018_09	
+S18ZYI5	CMP_multitime	P5	2018_09	
+S18ZYI6	CMP_multitime	P6	2018_09	
+S18ZYI7	CMP_multitime	P7	2018_09	
+S18ZYJ1	CMP_multitime	P1	2018_10	
+S18ZYJ2	CMP_multitime	P2	2018_10	
+S18ZYJ3	CMP_multitime	P3	2018_10	
+S18ZYJ5	CMP_multitime	P5	2018_10	
+S18ZYJ6	CMP_multitime	P6	2018_10	
+S18ZYJ7	CMP_multitime	P7	2018_10	
+S18ZYK1	CMP_multitime	P1	2018_11	
+S18ZYK2	CMP_multitime	P2	2018_11	
+S18ZYK3	CMP_multitime	P3	2018_11	
+S18ZYK5	CMP_multitime	P5	2018_11	
+S18ZYK6	CMP_multitime	P6	2018_11	
+S19ZYA1	CMP_multitime	P1	2019_01	
+S19ZYA2	CMP_multitime	P2	2019_01	
+S19ZYA4	CMP_multitime	P4	2019_01	
+S19ZYA5	CMP_multitime	P5	2019_01	
+S19ZYB1	CMP_multitime	P1	2019_02	
+S19ZYB2	CMP_multitime	P2	2019_02	
+S19ZYB4	CMP_multitime	P4	2019_02	
+S19ZYB5	CMP_multitime	P5	2019_02	
+S19ZYC1	CMP_multitime	P1	2019_03	
+S19ZYC2	CMP_multitime	P2	2019_03	
+S19ZYC4	CMP_multitime	P4	2019_03	
+S19ZYC5	CMP_multitime	P5	2019_03	
+S19ZYD1	CMP_multitime	P1	2019_04	
+S19ZYD2	CMP_multitime	P2	2019_04	
+S19ZYD3	CMP_multitime	P3	2019_04	
+S19ZYD4	CMP_multitime	P4	2019_04	
+S19ZYD5	CMP_multitime	P5	2019_04	
+S19ZYE1	CMP_multitime	P1	2019_05	
+S19ZYE2	CMP_multitime	P2	2019_05	
+S19ZYE4	CMP_multitime	P4	2019_05	
+S19ZYE5	CMP_multitime	P5	2019_05	
+S19ZYE6	CMP_multitime	P6	2019_05	
+S19ZYF07	CMP_multitime	P7	2019_06	
+S19ZYF1	CMP_multitime	P1	2019_06	
+S19ZYF2	CMP_multitime	P2	2019_06	
+S19ZYF4	CMP_multitime	P4	2019_06	
+S19ZYF5	CMP_multitime	P5	2019_06	
+S19ZYF6	CMP_multitime	P6	2019_06	
+S19ZYG1	CMP_multitime	P1	2019_07	
+S19ZYG2	CMP_multitime	P2	2019_07	
+S19ZYG5	CMP_multitime	P5	2019_07	
+S19ZYG7	CMP_multitime	P7	2019_07	
+S19ZYH1	CMP_multitime	P1	2019_08	
+S19ZYH2	CMP_multitime	P2	2019_08	
+S19ZYH4	CMP_multitime	P4	2019_08	
+S19ZYH5	CMP_multitime	P5	2019_08	
+S19ZYH6	CMP_multitime	P6	2019_08	
+S19ZYI1	CMP_multitime	P1	2019_09	
+S19ZYI4	CMP_multitime	P4	2019_09	
+S19ZYL1	CMP_multitime	P1	2019_12	
+S19ZYL2	CMP_multitime	P2	2019_12	
+S19ZYL7	CMP_multitime	P7	2019_12	
+S20ZYA1	CMP_multitime	P1	2020_01	
+S20ZYA4	CMP_multitime	P4	2020_01	
+S20ZYA6	CMP_multitime	P6	2020_01	
+S20ZYD1	CMP_multitime	P1	2020_04	
+S20ZYD7	CMP_multitime	P7	2020_04	
+S20ZYE1	CMP_multitime	P1	2020_05	
+S20ZYE4	CMP_multitime	P4	2020_05	
+S20ZYE5	CMP_multitime	P5	2020_05	
+S20ZYE6	CMP_multitime	P6	2020_05	
+20ZYF1	CMP_multitime	P7	2020_06	
+S20ZYF2	CMP_multitime	P2	2020_06	
+S20ZYF4	CMP_multitime	P4	2020_06	
+S20ZYF5	CMP_multitime	P5	2020_06	
+S20ZYF6	CMP_multitime	P6	2020_06	
+S20ZYF7	CMP_multitime	P1	2020_06	
+S20ZYG1	CMP_multitime	P1	2020_07	
+S20ZYG2	CMP_multitime	P2	2020_07	
+S20ZYG4	CMP_multitime	P4	2020_07	
+S20ZYG5	CMP_multitime	P5	2020_07	
+S20ZYG6	CMP_multitime	P6	2020_07	
+S20ZYG7	CMP_multitime	P7	2020_07	
+S20ZYH2	CMP_multitime	P2	2020_08	
+S20ZYH4	CMP_multitime	P4	2020_08	
+S20ZYH5	CMP_multitime	P5	2020_08	
+S20ZYH6	CMP_multitime	P6	2020_08	
+S20ZYI1	CMP_multitime	P1	2020_09	
+S20ZYI2	CMP_multitime	P2	2020_09	
+S20ZYI4	CMP_multitime	P4	2020_09	
+S20ZYI5	CMP_multitime	P5	2020_09	
+S20ZYI6	CMP_multitime	P6	2020_09	
+S20ZYI7	CMP_multitime	P7	2020_09	
+S21ZYC1	CMP_multitime	P1	2021_03	
+S21ZYC2	CMP_multitime	P2	2021_03	
+S21ZYC4	CMP_multitime	P4	2021_03	
+S21ZYC5	CMP_multitime	P5	2021_03	
+S21ZYC6	CMP_multitime	P6	2021_03	
+S21ZYC7	CMP_multitime	P7	2021_03	
+S21ZYD1	CMP_multitime	P1	2021_04	
+S21ZYD2	CMP_multitime	P2	2021_04	
+S21ZYD4	CMP_multitime	P4	2021_04	
+S21ZYD5	CMP_multitime	P5	2021_04	
+S21ZYD6	CMP_multitime	P6	2021_04	
+S21ZYD7	CMP_multitime	P7	2021_04	
+S21ZYE1	CMP_multitime	P1	2021_05	
+S21ZYE2	CMP_multitime	P2	2021_05	
+S21ZYE4	CMP_multitime	P4	2021_05	
+S21ZYE5	CMP_multitime	P5	2021_05	
+S21ZYE6	CMP_multitime	P6	2021_05	
+S21ZYE7	CMP_multitime	P7	2021_05	
+21ZYF1	CMP_multitime	P1	2021_06	
+21ZYF2	CMP_multitime	P2	2021_06	
+21ZYF5	CMP_multitime	P5	2021_06	
+21ZYF6	CMP_multitime	P6	2021_06	
+21ZYG6	CMP_multitime	P6	2021_07	
+21ZYJ2	CMP_multitime	P2	2021_10	
+21ZYJ4	CMP_multitime	P4	2021_10	
+21ZYJ5	CMP_multitime	P5	2021_10	
+21ZYJ6	CMP_multitime	P6	2021_10	
+21ZYK4	CMP_multitime	P4	2021_11	
+21ZYK5	CMP_multitime	P5	2021_11	
+21ZYK6	CMP_multitime	P6	2021_11	
+21ZYL1	CMP_multitime	P1	2021_12	
+21ZYL4	CMP_multitime	P4	2021_12	
+21ZYL6	CMP_multitime	P6	2021_12	
+21ZYL7	CMP_multitime	P7	2021_12	
+22ZYA1	CMP_multitime	P1	2022_01	
+22ZYA2	CMP_multitime	P2	2022_01	
+22ZYA4	CMP_multitime	P4	2022_01	
+22ZYA5	CMP_multitime	P5	2022_01	
+22ZYA7	CMP_multitime	P7	2022_01	
+22ZYB1	CMP_multitime	P1	2022_02	
+22ZYB2	CMP_multitime	P2	2022_02	
+22ZYB5	CMP_multitime	P5	2022_02	
+22ZYB6	CMP_multitime	P6	2022_02	
+22ZYB7	CMP_multitime	P7	2022_02	
+22ZYC1	CMP_multitime	P1	2022_03	
+22ZYC2	CMP_multitime	P2	2022_03	
+22ZYC5	CMP_multitime	P5	2022_03	
+22ZYC6	CMP_multitime	P6	2022_03	
+22ZYD1	CMP_multitime	P1	2022_04	
+22ZYD2	CMP_multitime	P2	2022_04	
+22ZYD5	CMP_multitime	P5	2022_04	
+22ZYD6	CMP_multitime	P6	2022_04	
+22ZYD7	CMP_multitime	P7	2022_04	
+22ZYF1	CMP_multitime	P1	2022_06	
+22ZYF2	CMP_multitime	P2	2022_06	
+22ZYF5	CMP_multitime	P5	2022_06	
+22ZYF6	CMP_multitime	P6	2022_06	
+22ZYF7	CMP_multitime	P7	2022_06	
+22ZYG1	CMP_multitime	P1	2022_07	
+22ZYG5	CMP_multitime	P5	2022_07	
+22ZYG6	CMP_multitime	P6	2022_07	
+22ZYG7	CMP_multitime	P7	2022_07	
+22ZYI1	CMP_multitime	P1	2022_09	
+22ZYI2	CMP_multitime	P2	2022_09	
+22ZYI4	CMP_multitime	P4	2022_09	
+22ZYI5	CMP_multitime	P5	2022_09	
+22ZYI6	CMP_multitime	P6	2022_09	
+22ZYI7	CMP_multitime	P7	2022_09	
+22ZYJ1	CMP_multitime	P1	2022_10	
+22ZYJ2	CMP_multitime	P2	2022_10	
+22ZYJ4	CMP_multitime	P4	2022_10	
+22ZYJ5	CMP_multitime	P5	2022_10	
+22ZYJ6	CMP_multitime	P6	2022_10	

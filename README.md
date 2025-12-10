@@ -23,6 +23,15 @@ pGut is a comprehensive Perl-based tool for detecting and analyzing plasmid sequ
 - **samtools** (v1.9 or higher)
 - **bcftools** (v1.9 or higher)
 
+### Dependencies Installation (suggest via Conda)
+```bash
+# Create a new conda environment
+conda create -n pgut -c bioconda -c conda-forge \
+    blat seqkit bowtie2 samtools bcftools perl
+
+# Activate the environment
+conda activate pgut
+```
 ### Hardware Requirements
 - Minimum 4GB RAM (8GB recommended)
 - Multi-core processor for parallel processing
@@ -35,6 +44,7 @@ pGut is a comprehensive Perl-based tool for detecting and analyzing plasmid sequ
 # Download the script
 curl -O https://raw.githubusercontent.com/username/pGut/main/pGut.pl
 chmod +x pGut.pl
+```
 
 ### Method 2: Clone Repository
 ```bash
